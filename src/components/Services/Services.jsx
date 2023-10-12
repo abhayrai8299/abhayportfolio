@@ -30,7 +30,7 @@ const Services = () => {
           <span>Services</span>
         </Link>
         <spane>
-         Software developer with 2.8+ years of experience building websites and web applications
+         Software developer with 2.7+ years of experience building websites and web applications
           <br />
           using React JS,React Native,Redux,Thunk,Saga,Node JS,ASP.NET,C Sharp,MongoDB,MySQL,
           <br />
